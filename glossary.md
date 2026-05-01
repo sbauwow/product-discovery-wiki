@@ -26,6 +26,8 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 - **CAC** — Customer Acquisition Cost
 - **[Cagan's four risks](concepts/cagan-four-risks.md)** — value, usability, feasibility, viability
+- **[Card sorting](concepts/card-sorting.md)** — IA research method; users group items into categories
+- **CES** — Customer Effort Score; "how easy was it to [task]?" ([surveys](concepts/surveys.md))
 - **Chaotic** — [Cynefin](concepts/cynefin.md) domain: no discernible cause/effect; act → sense → respond
 - **Clear / Obvious** — [Cynefin](concepts/cynefin.md) domain: cause/effect obvious; sense → categorise → respond
 - **[Cohort](concepts/cohort-analysis.md)** — group of users sharing a time-based entry point
@@ -34,7 +36,9 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Concierge MVP** — manually delivering a service to validate demand before automating
 - **[Continuous discovery](concepts/continuous-discovery.md)** — Torres's weekly customer-touchpoint cadence
 - **Cool-down** — Shape Up's 2-week buffer between build cycles
-- **CSAT** — Customer Satisfaction (typically 1–5 or 1–7 rating)
+- **CSAT** — Customer Satisfaction (typically 1–5 or 1–7 rating); see [surveys](concepts/surveys.md)
+- **Cognitive walkthrough** — task-specific cousin of [heuristic evaluation](concepts/heuristic-evaluation.md)
+- **Contextual Inquiry** — Beyer/Holtzblatt's master/apprentice field-research method; see [ethnography](concepts/ethnography.md)
 - **[Customer Development](concepts/customer-development.md)** — Steve Blank's pre-Lean-Startup framework: discovery / validation / creation / building
 - **[Customer Journey Map (CJM)](concepts/customer-journey-maps.md)** — visualization of end-to-end user experience across touchpoints
 - **[Cynefin](concepts/cynefin.md)** — Snowden's sense-making framework: clear / complicated / complex / chaotic / disorder
@@ -43,6 +47,8 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 - **Delivery track** — half of [dual-track agile](concepts/dual-track-agile.md); building, testing, shipping
 - **[Design Sprint](concepts/design-sprint.md)** — 5-day timeboxed process from problem to tested prototype (Knapp/GV)
+- **[Diary study](concepts/diary-studies.md)** — longitudinal self-reported user research method
+- **Directness** — % of [tree testing](concepts/tree-testing.md) successes without backtracking
 - **Discovery** — the work of figuring out *what* to build, separate from *how*
 - **[Discovery track](concepts/dual-track-agile.md)** — half of dual-track agile; interviews, prototypes, experiments
 - **Disorder** — [Cynefin](concepts/cynefin.md)'s default state; you don't yet know which domain you're in
@@ -52,6 +58,8 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 ## E
 
 - **[Empathy map](concepts/empathy-map.md)** — Says / Thinks / Does / Feels synthesis tool
+- **[Ethnography](concepts/ethnography.md)** — field observation in user's natural environment
+- **ESM (Experience Sampling Method)** — randomly-prompted in-the-moment self-reporting; see [diary studies](concepts/diary-studies.md)
 - **[Empowered team](concepts/empowered-team.md)** — Cagan's term for a team given outcomes + autonomy + the trio
 - **Engagement** — depth and frequency of product use ([HEART](concepts/heart-framework.md) dimension)
 - **Engine of growth** — viral, sticky, or paid loop that compounds ([Lean Startup](concepts/lean-startup.md))
@@ -78,6 +86,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 ## H
 
 - **[HEART](concepts/heart-framework.md)** — Google's UX metric framework: Happiness, Engagement, Adoption, Retention, Task success
+- **[Heuristic evaluation](concepts/heuristic-evaluation.md)** — Nielsen-style expert review against usability principles
 - **Hill chart** — Shape Up's progress visualization; uphill = unknowns, downhill = execution
 - **[HiPPO](concepts/hippo.md)** — Highest Paid Person's Opinion overriding evidence
 - **[Hooked](concepts/hooked.md)** — Eyal's habit-forming model: trigger → action → variable reward → investment
@@ -106,6 +115,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 ## L
 
 - **Leap-of-faith assumption** — the existential assumption a startup is betting on; if wrong, the whole idea fails
+- **Likert scale** — agree/disagree-style ordinal scale used in [surveys](concepts/surveys.md), typically 5- or 7-point
 - **[Lean Canvas](concepts/lean-canvas.md)** — Maurya's startup-adapted [BMC](concepts/business-model-canvas.md)
 - **[Lean Startup](concepts/lean-startup.md)** — Ries's build-measure-learn methodology
 - **[Lean UX](concepts/lean-ux.md)** — Gothelf; hypothesis-driven design integrated with agile delivery
@@ -120,14 +130,18 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **MVP** — Minimum Viable Product; smallest thing that starts the [learning loop](concepts/lean-startup.md), defined by riskiest assumption
 - **MoSCoW** — Must / Should / Could / Won't (categorical prioritization)
 - **MAU / WAU / DAU** — Monthly / Weekly / Daily Active Users; aggregate metrics, often [vanity](concepts/vanity-metrics.md) without cohort breakdown
+- **MaxDiff** — survey method for tradeoff measurement; see [surveys](concepts/surveys.md)
 - **[Mom Test](concepts/mom-test.md)** — Fitzpatrick's three-rule discipline for honest user interviews
+- **Moderated test** — researcher-present [usability testing](concepts/usability-testing.md); rich, slower
 
 ## N
 
 - **[North Star Metric](concepts/north-star.md)** — single metric capturing customer-delivered value, anchoring strategy
 - **[Now / Next / Later](concepts/now-next-later.md)** — outcome-shaped roadmap format that resists the [roadmap trap](concepts/roadmap-trap.md)
 - **Novelty effect** — temporary lift in [A/B test](concepts/ab-testing.md) due to user curiosity, not lasting value
-- **NPS** — Net Promoter Score: % promoters minus % detractors
+- **NPS** — Net Promoter Score: % promoters minus % detractors; see [surveys](concepts/surveys.md)
+- **Nielsen's 5** — empirical finding that 5 users find ~85% of [usability](concepts/usability-testing.md) issues
+- **Nielsen's 10 heuristics** — canonical UX principles; see [heuristic evaluation](concepts/heuristic-evaluation.md)
 
 ## O
 
@@ -171,6 +185,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 ## S
 
 - **Safe-to-fail experiment** — [Cynefin](concepts/cynefin.md) term for cheap experiments in the Complex domain
+- **[Survey](concepts/surveys.md)** — quantitative research at scale; powerful when designed well, garbage otherwise
 - **Sean Ellis test** — see [PMF](concepts/pmf.md); 40%+ "very disappointed" if product gone = PMF
 - **[Service blueprint](concepts/service-blueprint.md)** — CJM extended with backstage/support/process layers
 - **[Shape Up](concepts/shape-up.md)** — Basecamp's 6-week-cycle product methodology
@@ -187,7 +202,9 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 ## T
 
+- **Think-aloud protocol** — narrating thoughts during a [usability test](concepts/usability-testing.md); the most informative observation technique
 - **Touchpoint** — any interaction between user and org ([CJM](concepts/customer-journey-maps.md) dimension)
+- **[Tree testing](concepts/tree-testing.md)** — IA findability validation; given a task, can users find the right item in a text-only nav
 - **Trigger** — first phase of the [Hooked](concepts/hooked.md) loop; external (notif) or internal (emotion)
 - **Trio** — PM + Designer + Tech Lead, the unit of [continuous discovery](concepts/continuous-discovery.md)
 - **TTV** — Time-To-Value; how long from signup to [aha moment](concepts/aha-moment.md)
@@ -196,7 +213,9 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 - **Unfair advantage** — defensible moat that can't be easily copied ([Lean Canvas](concepts/lean-canvas.md) block)
 - **Unique Value Proposition (UVP)** — single clear value statement ([Lean Canvas](concepts/lean-canvas.md), [BMC](concepts/business-model-canvas.md))
+- **Unmoderated test** — async self-completed [usability testing](concepts/usability-testing.md); cheap, fast, less rich
 - **Usability** — one of [Cagan's four risks](concepts/cagan-four-risks.md); can users figure it out?
+- **[Usability testing](concepts/usability-testing.md)** — canonical UX research method; users attempt tasks while observed
 - **User prototype** — clickable façade for testing concept/usability without real backend
 
 ## V

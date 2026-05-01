@@ -75,11 +75,20 @@ Discovery exists to reduce these *before* delivery commits.
 - [Assumption mapping](concepts/assumption-mapping.md) — list, plot, test the riskiest
 - [Riskiest Assumption Test (RAT)](concepts/rat.md) — sharper alternative to MVP
 - [Prototyping](concepts/prototyping.md) — feasibility, user, live-data, Wizard-of-Oz
-- [Five-second test](concepts/five-second-test.md) — quick clarity / value-prop check
-- [A/B testing](concepts/ab-testing.md) — quantitative validation via random assignment
 - [Story mapping](concepts/story-mapping.md) — user journey as backbone, slices as releases
 - [Customer journey maps](concepts/customer-journey-maps.md) — end-to-end experience across all touchpoints
 - [Service blueprints](concepts/service-blueprint.md) — CJM extended with backstage operations
+
+### User research toolbox (specific research methods)
+- [Usability testing](concepts/usability-testing.md) — watch users attempt tasks; the canonical UX method
+- [Ethnography & Contextual Inquiry](concepts/ethnography.md) — field observation; what users actually do
+- [Diary studies](concepts/diary-studies.md) — longitudinal self-reporting across days/weeks
+- [Five-second test](concepts/five-second-test.md) — quick clarity / value-prop check
+- [Card sorting](concepts/card-sorting.md) — generate IA from user mental models
+- [Tree testing](concepts/tree-testing.md) — validate IA findability text-only
+- [Surveys](concepts/surveys.md) — quant scale, with design-discipline caveats
+- [Heuristic evaluation](concepts/heuristic-evaluation.md) — Nielsen's 10; expert review without users
+- [A/B testing](concepts/ab-testing.md) — quantitative validation via random assignment
 
 ### Strategic canvases & artifacts
 - [Business Model Canvas](concepts/business-model-canvas.md) — Osterwalder; nine-block business model viz
@@ -142,6 +151,8 @@ You've read *Inspired*, *Continuous Discovery Habits*, and a few others. Higher-
 - **JTBD depth** → [JTBD](concepts/jobs-to-be-done.md) → [ODI](concepts/odi.md) → [Value Proposition Canvas](concepts/value-proposition-canvas.md)
 - **Alternative methodologies** → [Shape Up](concepts/shape-up.md) → [Lean UX](concepts/lean-ux.md) → [Customer Development](concepts/customer-development.md)
 - **Strategic canvases** → [BMC](concepts/business-model-canvas.md) → [Lean Canvas](concepts/lean-canvas.md) → [VP Canvas](concepts/value-proposition-canvas.md)
+- **Research method depth** → [Heuristic eval](concepts/heuristic-evaluation.md) → [Usability testing](concepts/usability-testing.md) → [Ethnography](concepts/ethnography.md) → [Diary studies](concepts/diary-studies.md) → [Surveys](concepts/surveys.md)
+- **Information architecture** → [Card sorting](concepts/card-sorting.md) → [Tree testing](concepts/tree-testing.md) → [Usability testing](concepts/usability-testing.md)
 - **Anti-pattern diagnosis** → [Build trap](concepts/build-trap.md) → [Feature factory](concepts/feature-factory.md) → [HiPPO](concepts/hippo.md) → [Roadmap trap](concepts/roadmap-trap.md)
 
 ---

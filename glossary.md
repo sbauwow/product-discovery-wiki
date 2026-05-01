@@ -1,0 +1,217 @@
+# Glossary
+
+One-line definitions for terms used across the wiki. Linked entries have full pages.
+
+## A
+
+- **AARRR** — see [Pirate Metrics](concepts/pirate-metrics.md): Acquisition / Activation / Retention / Revenue / Referral
+- **A/B test** — see [A/B testing](concepts/ab-testing.md); randomized experiment exposing variants to comparable populations
+- **[Activation](concepts/aha-moment.md)** — the moment a new user reaches first meaningful value
+- **[Aha moment](concepts/aha-moment.md)** — experiential moment a user grasps the product's value
+- **Appetite** — Shape Up term for a time budget on a problem (not an estimate)
+- **[Assumption mapping](concepts/assumption-mapping.md)** — listing assumptions behind a solution and ranking by importance × evidence
+
+## B
+
+- **Backbone** — the horizontal sequence of user activities in a [story map](concepts/story-mapping.md)
+- **Backlog** — list of work items; in mature orgs, an *output* of discovery, not an input
+- **Backstage** — invisible-to-user org operations in a [service blueprint](concepts/service-blueprint.md)
+- **Bet** — a piece of work framed as "we expect outcome Y, we'll find out at T+N"
+- **Betting table** — Shape Up's leadership meeting that picks pitches for the next cycle
+- **[BMC / Business Model Canvas](concepts/business-model-canvas.md)** — Osterwalder's 9-block business-model visualization
+- **Build-Measure-Learn** — the [Lean Startup](concepts/lean-startup.md) loop
+- **[Build trap](concepts/build-trap.md)** — Perri's term for orgs measuring output instead of outcome
+
+## C
+
+- **CAC** — Customer Acquisition Cost
+- **[Cagan's four risks](concepts/cagan-four-risks.md)** — value, usability, feasibility, viability
+- **Chaotic** — [Cynefin](concepts/cynefin.md) domain: no discernible cause/effect; act → sense → respond
+- **Clear / Obvious** — [Cynefin](concepts/cynefin.md) domain: cause/effect obvious; sense → categorise → respond
+- **[Cohort](concepts/cohort-analysis.md)** — group of users sharing a time-based entry point
+- **Complex** — [Cynefin](concepts/cynefin.md) domain: cause/effect knowable only in retrospect; probe → sense → respond
+- **Complicated** — [Cynefin](concepts/cynefin.md) domain: cause/effect knowable with expertise; sense → analyse → respond
+- **Concierge MVP** — manually delivering a service to validate demand before automating
+- **[Continuous discovery](concepts/continuous-discovery.md)** — Torres's weekly customer-touchpoint cadence
+- **Cool-down** — Shape Up's 2-week buffer between build cycles
+- **CSAT** — Customer Satisfaction (typically 1–5 or 1–7 rating)
+- **[Customer Development](concepts/customer-development.md)** — Steve Blank's pre-Lean-Startup framework: discovery / validation / creation / building
+- **[Customer Journey Map (CJM)](concepts/customer-journey-maps.md)** — visualization of end-to-end user experience across touchpoints
+- **[Cynefin](concepts/cynefin.md)** — Snowden's sense-making framework: clear / complicated / complex / chaotic / disorder
+
+## D
+
+- **Delivery track** — half of [dual-track agile](concepts/dual-track-agile.md); building, testing, shipping
+- **[Design Sprint](concepts/design-sprint.md)** — 5-day timeboxed process from problem to tested prototype (Knapp/GV)
+- **Discovery** — the work of figuring out *what* to build, separate from *how*
+- **[Discovery track](concepts/dual-track-agile.md)** — half of dual-track agile; interviews, prototypes, experiments
+- **Disorder** — [Cynefin](concepts/cynefin.md)'s default state; you don't yet know which domain you're in
+- **Doctrine** — universal strategic rules in [Wardley Mapping](concepts/wardley-mapping.md)
+- **[Dual-track agile](concepts/dual-track-agile.md)** — concurrent discovery and delivery in the same team
+
+## E
+
+- **[Empathy map](concepts/empathy-map.md)** — Says / Thinks / Does / Feels synthesis tool
+- **[Empowered team](concepts/empowered-team.md)** — Cagan's term for a team given outcomes + autonomy + the trio
+- **Engagement** — depth and frequency of product use ([HEART](concepts/heart-framework.md) dimension)
+- **Engine of growth** — viral, sticky, or paid loop that compounds ([Lean Startup](concepts/lean-startup.md))
+- **Evolution** — Wardley's horizontal axis: genesis → custom → product → commodity
+- **Existing alternatives** — how customers solve the problem today ([Lean Canvas](concepts/lean-canvas.md) component)
+- **Experiment** — a test of a specific assumption with a predefined success criterion
+
+## F
+
+- **[Feature factory](concepts/feature-factory.md)** — org that ships features as the goal, ignoring outcomes
+- **[Feature team](concepts/feature-vs-product-team.md)** — team given specs to deliver, not outcomes to move
+- **Feasibility** — one of [Cagan's four risks](concepts/cagan-four-risks.md); can engineering build it?
+- **Falsifiability** — pre-committed criterion that would disprove a hypothesis (key for [RAT](concepts/rat.md))
+- **Fake door** — link to a feature that doesn't exist; measures click intent
+- **[Five-second test](concepts/five-second-test.md)** — show user a screen for 5s, measure clarity of understanding
+- **First-click test** — given a goal, where does user click first?
+- **Frontstage** — visible-to-user org operations in a [service blueprint](concepts/service-blueprint.md)
+
+## G
+
+- **Genesis** — earliest [Wardley](concepts/wardley-mapping.md) evolution stage: novel, uncertain, R&D-heavy
+- **Generative research** — open-ended discovery research aimed at finding new opportunities
+
+## H
+
+- **[HEART](concepts/heart-framework.md)** — Google's UX metric framework: Happiness, Engagement, Adoption, Retention, Task success
+- **Hill chart** — Shape Up's progress visualization; uphill = unknowns, downhill = execution
+- **[HiPPO](concepts/hippo.md)** — Highest Paid Person's Opinion overriding evidence
+- **[Hooked](concepts/hooked.md)** — Eyal's habit-forming model: trigger → action → variable reward → investment
+- **Hypothesis** — a testable claim with predicted outcome ("if we do X, then Y will happen, because Z")
+
+## I
+
+- **[ICE](concepts/rice-ice.md)** — Impact × Confidence × Ease (lightweight prioritization)
+- **Impact** — long-term consequence; downstream of outcome
+- **Importance × Satisfaction** — see [ODI](concepts/odi.md); the two survey axes for opportunity scoring
+- **[Innovation accounting](concepts/innovation-accounting.md)** — Ries's metric system measuring validated learning per cycle
+- **Input metric** — lever a team can pull to move the [North Star](concepts/north-star.md)
+- **Investment** — fourth phase of the [Hooked](concepts/hooked.md) loop; user effort that compounds value
+
+## J
+
+- **[Jobs To Be Done (JTBD)](concepts/jobs-to-be-done.md)** — users hire products to make progress on a job
+
+## K
+
+- **[Kano model](concepts/kano-model.md)** — categorizes features as basic, performance, excitement, indifferent, reverse
+- **Key Metrics** — startup-progress measure ([Lean Canvas](concepts/lean-canvas.md) block)
+- **KPI** — Key Performance Indicator; health metric, not [OKR](concepts/okrs.md)
+- **KR** — Key Result, the measurable component of an [OKR](concepts/okrs.md)
+
+## L
+
+- **Leap-of-faith assumption** — the existential assumption a startup is betting on; if wrong, the whole idea fails
+- **[Lean Canvas](concepts/lean-canvas.md)** — Maurya's startup-adapted [BMC](concepts/business-model-canvas.md)
+- **[Lean Startup](concepts/lean-startup.md)** — Ries's build-measure-learn methodology
+- **[Lean UX](concepts/lean-ux.md)** — Gothelf; hypothesis-driven design integrated with agile delivery
+- **Line of interaction** — [service blueprint](concepts/service-blueprint.md) line where user meets org
+- **Line of visibility** — [service blueprint](concepts/service-blueprint.md) line between frontstage and backstage
+- **LNO** — Doshi's task framework: Leverage / Neutral / Overhead — see [strong PM](concepts/strong-pm.md)
+- **LTV** — Lifetime Value (per customer, in revenue or contribution margin)
+- **Live-data prototype** — narrow real-product slice exposed to real users
+
+## M
+
+- **MVP** — Minimum Viable Product; smallest thing that starts the [learning loop](concepts/lean-startup.md), defined by riskiest assumption
+- **MoSCoW** — Must / Should / Could / Won't (categorical prioritization)
+- **MAU / WAU / DAU** — Monthly / Weekly / Daily Active Users; aggregate metrics, often [vanity](concepts/vanity-metrics.md) without cohort breakdown
+- **[Mom Test](concepts/mom-test.md)** — Fitzpatrick's three-rule discipline for honest user interviews
+
+## N
+
+- **[North Star Metric](concepts/north-star.md)** — single metric capturing customer-delivered value, anchoring strategy
+- **[Now / Next / Later](concepts/now-next-later.md)** — outcome-shaped roadmap format that resists the [roadmap trap](concepts/roadmap-trap.md)
+- **Novelty effect** — temporary lift in [A/B test](concepts/ab-testing.md) due to user curiosity, not lasting value
+- **NPS** — Net Promoter Score: % promoters minus % detractors
+
+## O
+
+- **[ODI / Outcome-Driven Innovation](concepts/odi.md)** — Ulwick's quantitative jobs-to-be-done methodology
+- **[OKR](concepts/okrs.md)** — Objectives and Key Results; outcome goals + measurable results (often misused as outputs)
+- **[Opportunity](concepts/opportunity-solution-tree.md)** — a user need / pain / desire that, if addressed, would move the outcome
+- **Opportunity score** — [ODI](concepts/odi.md) formula: importance + max(importance − satisfaction, 0)
+- **[Opportunity Solution Tree (OST)](concepts/opportunity-solution-tree.md)** — Torres's central artifact mapping outcome → opportunities → solutions → experiments
+- **[Outcome](concepts/outcomes-vs-outputs.md)** — change in user or business behavior (vs output: thing produced)
+- **Output** — thing produced by the team (feature, design, model)
+
+## P
+
+- **[Persona](concepts/personas.md)** — fictional representative user; useful for design discussion, criticized vs [JTBD](concepts/jobs-to-be-done.md)
+- **[Pirate Metrics](concepts/pirate-metrics.md)** — Dave McClure's AARRR funnel
+- **Pivot** — change in one core element of strategy while preserving others ([Lean Startup](concepts/lean-startup.md), [Customer Development](concepts/customer-development.md))
+- **[PMF / Product-Market Fit](concepts/pmf.md)** — Andreessen's "great team in great market"; measurable via [Sean Ellis test](concepts/pmf.md)
+- **Power analysis** — sample-size calculation for an [A/B test](concepts/ab-testing.md)
+- **[PR/FAQ](concepts/pr-faq.md)** — Amazon's "press-release-first" working-backwards practice
+- **Pretotype** — Savoia's lighter-than-prototype validation
+- **Probe → Sense → Respond** — [Cynefin](concepts/cynefin.md) approach for the Complex domain
+- **Product team** — team given outcomes, not features ([contrast](concepts/feature-vs-product-team.md))
+- **[Product strategy](concepts/product-strategy.md)** — Rumelt-style diagnosis + guiding policy + coherent actions
+- **[Prototype](concepts/prototyping.md)** — learning artifact built to answer a question cheaply
+
+## Q
+
+- **Quantitative research** — measures behavior at scale (analytics, A/B tests, surveys)
+- **Qualitative research** — investigates *why* through interviews, observation, journaling
+
+## R
+
+- **[RARRA](concepts/rarra.md)** — Petit/Papp's retention-first reordering of [AARRR](concepts/pirate-metrics.md)
+- **[RAT / Riskiest Assumption Test](concepts/rat.md)** — Higham's refinement of [MVP](concepts/lean-startup.md)
+- **Reach** — how many users are affected ([RICE](concepts/rice-ice.md) component)
+- **Retention** — % of users who return over time; usually the most important leading indicator
+- **[RICE](concepts/rice-ice.md)** — (Reach × Impact × Confidence) ÷ Effort
+- **[Roadmap trap](concepts/roadmap-trap.md)** — communicated direction; corrupts into output-shaped contract under pressure
+- **Rumelt's kernel** — diagnosis + guiding policy + coherent actions ([product strategy](concepts/product-strategy.md))
+
+## S
+
+- **Safe-to-fail experiment** — [Cynefin](concepts/cynefin.md) term for cheap experiments in the Complex domain
+- **Sean Ellis test** — see [PMF](concepts/pmf.md); 40%+ "very disappointed" if product gone = PMF
+- **[Service blueprint](concepts/service-blueprint.md)** — CJM extended with backstage/support/process layers
+- **[Shape Up](concepts/shape-up.md)** — Basecamp's 6-week-cycle product methodology
+- **Shaping** — Shape Up's pre-build definition of problem + appetite + rough solution
+- **Signal** — observable behavior indicating a goal is met ([HEART](concepts/heart-framework.md) framework step)
+- **Smile / flat / frown curve** — three retention shapes in [cohort analysis](concepts/cohort-analysis.md)
+- **Solution** — proposed way to address an opportunity ([OST layer](concepts/opportunity-solution-tree.md))
+- **[Solutioning](concepts/solutioning-trap.md)** — jumping to solutions before understanding the problem
+- **SRM** — Sample Ratio Mismatch; broken assignment in an [A/B test](concepts/ab-testing.md)
+- **Stickiness** — DAU/MAU ratio; rough engagement frequency proxy
+- **[Story mapping](concepts/story-mapping.md)** — Patton's 2D user-journey artifact bridging discovery → delivery
+- **[Strong PM](concepts/strong-pm.md)** — Cagan's PM skill profile: deep in user / data / business / market
+- **Switch interview** — Moesta/Spiek format for understanding why users switched products ([JTBD](concepts/jobs-to-be-done.md))
+
+## T
+
+- **Touchpoint** — any interaction between user and org ([CJM](concepts/customer-journey-maps.md) dimension)
+- **Trigger** — first phase of the [Hooked](concepts/hooked.md) loop; external (notif) or internal (emotion)
+- **Trio** — PM + Designer + Tech Lead, the unit of [continuous discovery](concepts/continuous-discovery.md)
+- **TTV** — Time-To-Value; how long from signup to [aha moment](concepts/aha-moment.md)
+
+## U
+
+- **Unfair advantage** — defensible moat that can't be easily copied ([Lean Canvas](concepts/lean-canvas.md) block)
+- **Unique Value Proposition (UVP)** — single clear value statement ([Lean Canvas](concepts/lean-canvas.md), [BMC](concepts/business-model-canvas.md))
+- **Usability** — one of [Cagan's four risks](concepts/cagan-four-risks.md); can users figure it out?
+- **User prototype** — clickable façade for testing concept/usability without real backend
+
+## V
+
+- **Validated learning** — Ries's success metric for [Lean Startup](concepts/lean-startup.md); knowledge gained, not features shipped
+- **Value** — one of [Cagan's four risks](concepts/cagan-four-risks.md); will users buy/use/choose it?
+- **[Value Proposition Canvas](concepts/value-proposition-canvas.md)** — Osterwalder's two-circle fit between user pains/gains and product offer
+- **[Vanity metric](concepts/vanity-metrics.md)** — number that always grows but doesn't indicate value
+- **Variable reward** — third phase of the [Hooked](concepts/hooked.md) loop; unpredictable payoff (tribe / hunt / self)
+- **Viability** — one of [Cagan's four risks](concepts/cagan-four-risks.md); does it work for the business?
+
+## W
+
+- **Walking skeleton** — Cockburn's term for a minimal end-to-end product slice
+- **[Wardley Map](concepts/wardley-mapping.md)** — strategic position diagram (visibility × evolution)
+- **Wizard of Oz prototype** — UI that looks automated but is operated by humans behind the scenes
+- **Working Backwards** — Amazon's [PR/FAQ](concepts/pr-faq.md) practice; write the press release before building
+- **WSJF** — Weighted Shortest Job First (SAFe prioritization formula: Cost of Delay / Job Size)

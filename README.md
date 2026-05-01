@@ -49,8 +49,12 @@ Discovery exists to reduce these *before* delivery commits.
 ### Strategy & vision (what game are we playing)
 - [Product strategy](concepts/product-strategy.md) — Rumelt-style diagnosis + policy + actions; the missing layer in most orgs
 - [Wardley Mapping](concepts/wardley-mapping.md) — strategic positioning by visibility × evolution
+- [Disruption theory](concepts/disruption-theory.md) — Christensen; why incumbents lose to inferior-looking entrants
+- [Crossing the Chasm](concepts/crossing-the-chasm.md) — Moore + Rogers; the gap between early adopters and mainstream
 - [North Star Framework](concepts/north-star.md) — one outcome metric anchoring strategy
 - [PR/FAQ (Working Backwards)](concepts/pr-faq.md) — Amazon's press-release-first method
+- [PRD vs One-pager](concepts/prd.md) — Cagan's argument for short specs over long PRDs
+- [Pricing](concepts/pricing.md) — value-based, Van Westendorp PSM, freemium, B2B
 
 ### Frameworks (how to organize discovery)
 - [Dual Track Agile](concepts/dual-track-agile.md) — discovery and delivery as parallel tracks within one team
@@ -74,6 +78,7 @@ Discovery exists to reduce these *before* delivery commits.
 - [Personas](concepts/personas.md) — composite users, with critique
 - [Assumption mapping](concepts/assumption-mapping.md) — list, plot, test the riskiest
 - [Riskiest Assumption Test (RAT)](concepts/rat.md) — sharper alternative to MVP
+- [Premortem](concepts/premortem.md) — Klein; imagine failure; surface risks before they become real
 - [Prototyping](concepts/prototyping.md) — feasibility, user, live-data, Wizard-of-Oz
 - [Story mapping](concepts/story-mapping.md) — user journey as backbone, slices as releases
 - [Customer journey maps](concepts/customer-journey-maps.md) — end-to-end experience across all touchpoints
@@ -99,6 +104,7 @@ Discovery exists to reduce these *before* delivery commits.
 - [Outcomes vs outputs](concepts/outcomes-vs-outputs.md) — the single most-violated rule
 - [Pirate Metrics (AARRR)](concepts/pirate-metrics.md) — funnel: acquisition → activation → retention → revenue → referral
 - [RARRA (retention-first)](concepts/rarra.md) — modern reordering of AARRR
+- [Funnel analysis](concepts/funnel-analysis.md) — analytical method for finding step-by-step drop-offs
 - [Cohort analysis](concepts/cohort-analysis.md) — the only honest way to measure product health
 - [Aha moment / Activation](concepts/aha-moment.md) — the highest-leverage discovery
 - [Product-Market Fit (PMF)](concepts/pmf.md) — Sean Ellis test, retention curves, Andreessen
@@ -106,6 +112,12 @@ Discovery exists to reduce these *before* delivery commits.
 - [RICE / ICE scoring](concepts/rice-ice.md) — coarse prioritization, tiebreaker only
 - [Kano model](concepts/kano-model.md) — feature categories: basic, performance, excitement
 - [OKRs (done right)](concepts/okrs.md) — outcome-shaped goals; most-misused framework
+
+### Growth & adoption
+- [Growth loops](concepts/growth-loops.md) — Balfour/Reforge; compounding cycles vs leaky funnels
+- [Network effects](concepts/network-effects.md) — Hoffman/NFX; the most defensible moat in software
+- [Cold-start problem](concepts/cold-start-problem.md) — Andrew Chen; bootstrapping a network from zero
+- [Product-Led Growth (PLG)](concepts/product-led-growth.md) — Wes Bush; the modern B2B SaaS motion
 
 ### Roles & teams
 - [Empowered product team](concepts/empowered-team.md) — Cagan's PM/Design/Eng trio
@@ -153,6 +165,10 @@ You've read *Inspired*, *Continuous Discovery Habits*, and a few others. Higher-
 - **Strategic canvases** → [BMC](concepts/business-model-canvas.md) → [Lean Canvas](concepts/lean-canvas.md) → [VP Canvas](concepts/value-proposition-canvas.md)
 - **Research method depth** → [Heuristic eval](concepts/heuristic-evaluation.md) → [Usability testing](concepts/usability-testing.md) → [Ethnography](concepts/ethnography.md) → [Diary studies](concepts/diary-studies.md) → [Surveys](concepts/surveys.md)
 - **Information architecture** → [Card sorting](concepts/card-sorting.md) → [Tree testing](concepts/tree-testing.md) → [Usability testing](concepts/usability-testing.md)
+- **Growth & adoption** → [Growth loops](concepts/growth-loops.md) → [Network effects](concepts/network-effects.md) → [Cold-start problem](concepts/cold-start-problem.md) → [PLG](concepts/product-led-growth.md)
+- **Going to market** → [Crossing the Chasm](concepts/crossing-the-chasm.md) → [Disruption theory](concepts/disruption-theory.md) → [Pricing](concepts/pricing.md)
+- **Specs that don't suck** → [PR/FAQ](concepts/pr-faq.md) → [PRD vs one-pager](concepts/prd.md) → [Now/Next/Later](concepts/now-next-later.md)
+- **Risk surfacing** → [Premortem](concepts/premortem.md) → [Assumption mapping](concepts/assumption-mapping.md) → [RAT](concepts/rat.md)
 - **Anti-pattern diagnosis** → [Build trap](concepts/build-trap.md) → [Feature factory](concepts/feature-factory.md) → [HiPPO](concepts/hippo.md) → [Roadmap trap](concepts/roadmap-trap.md)
 
 ---
@@ -190,8 +206,18 @@ You've read *Inspired*, *Continuous Discovery Habits*, and a few others. Higher-
 
 ### Strategy
 - **Good Strategy / Bad Strategy** — Richard Rumelt
+- **The Innovator's Dilemma** + **The Innovator's Solution** — Clayton Christensen (disruption)
+- **Crossing the Chasm** — Geoffrey Moore
+- **Diffusion of Innovations** — Everett Rogers
 - **Play Bigger** — Christopher Lochhead (category design)
 - **Measure What Matters** — John Doerr (OKRs)
+
+### Growth, adoption & monetization
+- **The Cold Start Problem** — Andrew Chen
+- **Product-Led Growth** — Wes Bush
+- **Monetizing Innovation** — Madhavan Ramanujam (pricing)
+- **The Lean Product Playbook** — Dan Olsen
+- Reforge essays — Brian Balfour, Andrew Chen, Casey Winters (growth loops, retention)
 
 ### Decision-making
 - **Cynefin: Weaving Sense-Making into the Fabric of Our World** — Dave Snowden

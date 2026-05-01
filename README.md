@@ -51,6 +51,9 @@ Discovery exists to reduce these *before* delivery commits.
 - [Wardley Mapping](concepts/wardley-mapping.md) — strategic positioning by visibility × evolution
 - [Disruption theory](concepts/disruption-theory.md) — Christensen; why incumbents lose to inferior-looking entrants
 - [Crossing the Chasm](concepts/crossing-the-chasm.md) — Moore + Rogers; the gap between early adopters and mainstream
+- [Blue Ocean Strategy](concepts/blue-ocean.md) — Kim/Mauborgne; create uncontested market space via ERRC
+- [7 Powers](concepts/seven-powers.md) — Helmer; rigorous taxonomy of strategic moats / defensibility
+- [Three Horizons](concepts/three-horizons.md) — McKinsey; portfolio innovation framework
 - [North Star Framework](concepts/north-star.md) — one outcome metric anchoring strategy
 - [PR/FAQ (Working Backwards)](concepts/pr-faq.md) — Amazon's press-release-first method
 - [PRD vs One-pager](concepts/prd.md) — Cagan's argument for short specs over long PRDs
@@ -79,6 +82,7 @@ Discovery exists to reduce these *before* delivery commits.
 - [Assumption mapping](concepts/assumption-mapping.md) — list, plot, test the riskiest
 - [Riskiest Assumption Test (RAT)](concepts/rat.md) — sharper alternative to MVP
 - [Premortem](concepts/premortem.md) — Klein; imagine failure; surface risks before they become real
+- [Postmortem (blameless)](concepts/postmortem.md) — retrospective learning from incidents and bets
 - [Prototyping](concepts/prototyping.md) — feasibility, user, live-data, Wizard-of-Oz
 - [Story mapping](concepts/story-mapping.md) — user journey as backbone, slices as releases
 - [Customer journey maps](concepts/customer-journey-maps.md) — end-to-end experience across all touchpoints
@@ -93,7 +97,9 @@ Discovery exists to reduce these *before* delivery commits.
 - [Tree testing](concepts/tree-testing.md) — validate IA findability text-only
 - [Surveys](concepts/surveys.md) — quant scale, with design-discipline caveats
 - [Heuristic evaluation](concepts/heuristic-evaluation.md) — Nielsen's 10; expert review without users
+- [Power user analysis](concepts/power-user-analysis.md) — Bangaly Kaba; study most-engaged users to find what works
 - [A/B testing](concepts/ab-testing.md) — quantitative validation via random assignment
+- [Multivariate testing & Bayesian A/B](concepts/multivariate-testing.md) — beyond standard A/B
 
 ### Strategic canvases & artifacts
 - [Business Model Canvas](concepts/business-model-canvas.md) — Osterwalder; nine-block business model viz
@@ -118,11 +124,15 @@ Discovery exists to reduce these *before* delivery commits.
 - [Network effects](concepts/network-effects.md) — Hoffman/NFX; the most defensible moat in software
 - [Cold-start problem](concepts/cold-start-problem.md) — Andrew Chen; bootstrapping a network from zero
 - [Product-Led Growth (PLG)](concepts/product-led-growth.md) — Wes Bush; the modern B2B SaaS motion
+- [Onboarding patterns](concepts/onboarding-patterns.md) — FTUX patterns: empty states, tours, milestones, magic moment
 
-### Roles & teams
+### Roles, teams, & operating model
 - [Empowered product team](concepts/empowered-team.md) — Cagan's PM/Design/Eng trio
 - [Strong PM](concepts/strong-pm.md) — the skill profile that makes discovery work
 - [Feature team vs product team](concepts/feature-vs-product-team.md) — output factory vs outcome owner
+- [Product Operating Model](concepts/product-operating-model.md) — Cagan *Transformed*; org-level system for running product
+- [Conway's Law](concepts/conways-law.md) — system architecture mirrors org structure; the inverse maneuver
+- [Team Topologies](concepts/team-topologies.md) — Skelton/Pais; modern team-shape framework
 
 ### Behavior & habit
 - [Hooked](concepts/hooked.md) — Eyal's habit-forming product loop (trigger → action → variable reward → investment)
@@ -169,6 +179,11 @@ You've read *Inspired*, *Continuous Discovery Habits*, and a few others. Higher-
 - **Going to market** → [Crossing the Chasm](concepts/crossing-the-chasm.md) → [Disruption theory](concepts/disruption-theory.md) → [Pricing](concepts/pricing.md)
 - **Specs that don't suck** → [PR/FAQ](concepts/pr-faq.md) → [PRD vs one-pager](concepts/prd.md) → [Now/Next/Later](concepts/now-next-later.md)
 - **Risk surfacing** → [Premortem](concepts/premortem.md) → [Assumption mapping](concepts/assumption-mapping.md) → [RAT](concepts/rat.md)
+- **Defensibility & moats** → [7 Powers](concepts/seven-powers.md) → [Network effects](concepts/network-effects.md) → [Disruption theory](concepts/disruption-theory.md) → [Blue Ocean](concepts/blue-ocean.md)
+- **Org design at scale** → [Conway's Law](concepts/conways-law.md) → [Team Topologies](concepts/team-topologies.md) → [Product Operating Model](concepts/product-operating-model.md)
+- **Innovation portfolio** → [Three Horizons](concepts/three-horizons.md) → [Innovation accounting](concepts/innovation-accounting.md) → [Disruption theory](concepts/disruption-theory.md)
+- **Learning from outcomes** → [Premortem](concepts/premortem.md) → [Postmortem](concepts/postmortem.md) → [Innovation accounting](concepts/innovation-accounting.md)
+- **Advanced quant** → [A/B testing](concepts/ab-testing.md) → [Multivariate / Bayesian](concepts/multivariate-testing.md) → [Power user analysis](concepts/power-user-analysis.md) → [Funnel analysis](concepts/funnel-analysis.md)
 - **Anti-pattern diagnosis** → [Build trap](concepts/build-trap.md) → [Feature factory](concepts/feature-factory.md) → [HiPPO](concepts/hippo.md) → [Roadmap trap](concepts/roadmap-trap.md)
 
 ---
@@ -209,6 +224,9 @@ You've read *Inspired*, *Continuous Discovery Habits*, and a few others. Higher-
 - **The Innovator's Dilemma** + **The Innovator's Solution** — Clayton Christensen (disruption)
 - **Crossing the Chasm** — Geoffrey Moore
 - **Diffusion of Innovations** — Everett Rogers
+- **Blue Ocean Strategy** — W. Chan Kim & Renée Mauborgne
+- **7 Powers** — Hamilton Helmer (defensibility/moats)
+- **The Alchemy of Growth** — Baghai/Coley/White (Three Horizons)
 - **Play Bigger** — Christopher Lochhead (category design)
 - **Measure What Matters** — John Doerr (OKRs)
 
@@ -219,9 +237,12 @@ You've read *Inspired*, *Continuous Discovery Habits*, and a few others. Higher-
 - **The Lean Product Playbook** — Dan Olsen
 - Reforge essays — Brian Balfour, Andrew Chen, Casey Winters (growth loops, retention)
 
-### Decision-making
+### Decision-making & org design
 - **Cynefin: Weaving Sense-Making into the Fabric of Our World** — Dave Snowden
 - **Working Backwards** — Colin Bryar & Bill Carr (Amazon PR/FAQ)
+- **Team Topologies** — Matthew Skelton & Manuel Pais
+- **Site Reliability Engineering** — Google (blameless postmortems)
+- **The Power of Intuition** / *Sources of Power* — Gary Klein (premortems, naturalistic decision-making)
 
 ## Glossary
 

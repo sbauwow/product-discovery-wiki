@@ -16,7 +16,10 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Backbone** — the horizontal sequence of user activities in a [story map](concepts/story-mapping.md)
 - **Backlog** — list of work items; in mature orgs, an *output* of discovery, not an input
 - **Backstage** — invisible-to-user org operations in a [service blueprint](concepts/service-blueprint.md)
+- **Bayesian A/B testing** — alternative statistical framework; see [multivariate testing](concepts/multivariate-testing.md)
 - **Bet** — a piece of work framed as "we expect outcome Y, we'll find out at T+N"
+- **[Blue Ocean](concepts/blue-ocean.md)** — Kim/Mauborgne; create uncontested market space via ERRC
+- **Blameless postmortem** — see [postmortem](concepts/postmortem.md); failure analysis without individual blame
 - **Betting table** — Shape Up's leadership meeting that picks pitches for the next cycle
 - **[BMC / Business Model Canvas](concepts/business-model-canvas.md)** — Osterwalder's 9-block business-model visualization
 - **Build-Measure-Learn** — the [Lean Startup](concepts/lean-startup.md) loop
@@ -28,8 +31,12 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[Cagan's four risks](concepts/cagan-four-risks.md)** — value, usability, feasibility, viability
 - **[Card sorting](concepts/card-sorting.md)** — IA research method; users group items into categories
 - **CES** — Customer Effort Score; "how easy was it to [task]?" ([surveys](concepts/surveys.md))
+- **Cognitive load** — capacity-bounded mental effort per team; reducing extraneous load is key in [Team Topologies](concepts/team-topologies.md)
 - **[Cold-start problem](concepts/cold-start-problem.md)** — Andrew Chen; how to bootstrap a network from zero
 - **Conjoint analysis** — survey-based tradeoff measurement; advanced [pricing](concepts/pricing.md) tool
+- **[Conway's Law](concepts/conways-law.md)** — system architecture mirrors the org's communication structure
+- **Cornered resource** — Power #6 in [Helmer's 7 Powers](concepts/seven-powers.md); privileged access to scarce input
+- **Counter-positioning** — Power #1 in [Helmer's 7 Powers](concepts/seven-powers.md); business model incumbents can't copy without cannibalizing
 - **[Crossing the Chasm](concepts/crossing-the-chasm.md)** — Moore; gap between early adopters and early majority
 - **Chaotic** — [Cynefin](concepts/cynefin.md) domain: no discernible cause/effect; act → sense → respond
 - **Clear / Obvious** — [Cynefin](concepts/cynefin.md) domain: cause/effect obvious; sense → categorise → respond
@@ -66,8 +73,10 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[Ethnography](concepts/ethnography.md)** — field observation in user's natural environment
 - **ESM (Experience Sampling Method)** — randomly-prompted in-the-moment self-reporting; see [diary studies](concepts/diary-studies.md)
 - **[Empowered team](concepts/empowered-team.md)** — Cagan's term for a team given outcomes + autonomy + the trio
+- **Enabling team** — temporary capability-spreading team; one of four types in [Team Topologies](concepts/team-topologies.md)
 - **Engagement** — depth and frequency of product use ([HEART](concepts/heart-framework.md) dimension)
 - **Engine of growth** — viral, sticky, or paid loop that compounds ([Lean Startup](concepts/lean-startup.md))
+- **ERRC** — Eliminate-Reduce-Raise-Create; the four-action [Blue Ocean](concepts/blue-ocean.md) framework
 - **Evolution** — Wardley's horizontal axis: genesis → custom → product → commodity
 - **Existing alternatives** — how customers solve the problem today ([Lean Canvas](concepts/lean-canvas.md) component)
 - **Experiment** — a test of a specific assumption with a predefined success criterion
@@ -81,8 +90,10 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Fake door** — link to a feature that doesn't exist; measures click intent
 - **[Five-second test](concepts/five-second-test.md)** — show user a screen for 5s, measure clarity of understanding
 - **First-click test** — given a goal, where does user click first?
+- **Five Whys** — root-cause analysis technique; see [postmortem](concepts/postmortem.md)
 - **Freemium** — pricing model with permanent free tier ([pricing](concepts/pricing.md), [PLG](concepts/product-led-growth.md))
 - **Frontstage** — visible-to-user org operations in a [service blueprint](concepts/service-blueprint.md)
+- **FTUX** — First-Time User Experience; see [onboarding patterns](concepts/onboarding-patterns.md)
 - **[Funnel analysis](concepts/funnel-analysis.md)** — analytical method for finding step-by-step user drop-off
 
 ## G
@@ -96,6 +107,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[HEART](concepts/heart-framework.md)** — Google's UX metric framework: Happiness, Engagement, Adoption, Retention, Task success
 - **[Heuristic evaluation](concepts/heuristic-evaluation.md)** — Nielsen-style expert review against usability principles
 - **Hill chart** — Shape Up's progress visualization; uphill = unknowns, downhill = execution
+- **Horizon 1 / 2 / 3** — see [Three Horizons](concepts/three-horizons.md); McKinsey portfolio frame for innovation investment
 - **[HiPPO](concepts/hippo.md)** — Highest Paid Person's Opinion overriding evidence
 - **[Hooked](concepts/hooked.md)** — Eyal's habit-forming model: trigger → action → variable reward → investment
 - **Hypothesis** — a testable claim with predicted outcome ("if we do X, then Y will happen, because Z")
@@ -108,6 +120,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[Innovation accounting](concepts/innovation-accounting.md)** — Ries's metric system measuring validated learning per cycle
 - **Input metric** — lever a team can pull to move the [North Star](concepts/north-star.md)
 - **Investment** — fourth phase of the [Hooked](concepts/hooked.md) loop; user effort that compounds value
+- **Inverse Conway Maneuver** — design teams to produce desired architecture; see [Conway's Law](concepts/conways-law.md)
 
 ## J
 
@@ -140,6 +153,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 - **Metcalfe's Law** — value of a [network](concepts/network-effects.md) ≈ n² (where n = users); critiqued for overstating real networks
 - **MVP** — Minimum Viable Product; smallest thing that starts the [learning loop](concepts/lean-startup.md), defined by riskiest assumption
+- **MVT (Multivariate Testing)** — testing multiple variables simultaneously; see [multivariate testing](concepts/multivariate-testing.md)
 - **MoSCoW** — Must / Should / Could / Won't (categorical prioritization)
 - **MAU / WAU / DAU** — Monthly / Weekly / Daily Active Users; aggregate metrics, often [vanity](concepts/vanity-metrics.md) without cohort breakdown
 - **MaxDiff** — survey method for tradeoff measurement; see [surveys](concepts/surveys.md)
@@ -161,6 +175,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 - **[ODI / Outcome-Driven Innovation](concepts/odi.md)** — Ulwick's quantitative jobs-to-be-done methodology
 - **[OKR](concepts/okrs.md)** — Objectives and Key Results; outcome goals + measurable results (often misused as outputs)
+- **[Onboarding patterns](concepts/onboarding-patterns.md)** — FTUX patterns: empty states, tours, milestones, magic moment
 - **[Opportunity](concepts/opportunity-solution-tree.md)** — a user need / pain / desire that, if addressed, would move the outcome
 - **Opportunity score** — [ODI](concepts/odi.md) formula: importance + max(importance − satisfaction, 0)
 - **[Opportunity Solution Tree (OST)](concepts/opportunity-solution-tree.md)** — Torres's central artifact mapping outcome → opportunities → solutions → experiments
@@ -174,11 +189,17 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[Pirate Metrics](concepts/pirate-metrics.md)** — Dave McClure's AARRR funnel
 - **Pivot** — change in one core element of strategy while preserving others ([Lean Startup](concepts/lean-startup.md), [Customer Development](concepts/customer-development.md))
 - **[PLG / Product-Led Growth](concepts/product-led-growth.md)** — Wes Bush; product as primary GTM vehicle
+- **Platform team** — owns internal-facing product platforms used by stream-aligned teams; see [Team Topologies](concepts/team-topologies.md)
 - **[PMF / Product-Market Fit](concepts/pmf.md)** — Andreessen's "great team in great market"; measurable via [Sean Ellis test](concepts/pmf.md)
+- **[Postmortem](concepts/postmortem.md)** — blameless retrospective on incidents and bets
+- **Power** — see [7 Powers](concepts/seven-powers.md); benefit + barrier producing persistent differential returns
 - **Power analysis** — sample-size calculation for an [A/B test](concepts/ab-testing.md)
+- **[Power user analysis](concepts/power-user-analysis.md)** — Bangaly Kaba; study most-engaged users to find what works
 - **[PR/FAQ](concepts/pr-faq.md)** — Amazon's "press-release-first" working-backwards practice
 - **[PRD](concepts/prd.md)** — Product Requirements Document; Cagan recommends [one-pager](concepts/prd.md) instead
 - **[Premortem](concepts/premortem.md)** — Klein; imagine the project failed; brainstorm causes; mitigate before launch
+- **Process Power** — Power #7 in [Helmer](concepts/seven-powers.md); embedded organizational processes competitors can't copy
+- **[Product Operating Model](concepts/product-operating-model.md)** — Cagan *Transformed*; org-level system for running product
 - **Pretotype** — Savoia's lighter-than-prototype validation
 - **[Pricing](concepts/pricing.md)** — value-based vs cost-plus vs competitor-anchored; the highest-leverage product decision
 - **PSM (Price Sensitivity Meter)** — Van Westendorp's four-question pricing survey ([pricing](concepts/pricing.md))
@@ -207,8 +228,12 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Safe-to-fail experiment** — [Cynefin](concepts/cynefin.md) term for cheap experiments in the Complex domain
 - **Sales-led growth** — GTM motion where sales reps acquire and convert; contrast with [PLG](concepts/product-led-growth.md)
 - **Skim pricing** — start high, lower over time; opposite of penetration ([pricing](concepts/pricing.md))
+- **Sequential testing** — A/B method allowing continuous monitoring; see [multivariate testing](concepts/multivariate-testing.md)
+- **[Seven Powers](concepts/seven-powers.md)** — Helmer; canonical taxonomy of strategic moats / defensibility
+- **Stream-aligned team** — default team type owning a value stream; see [Team Topologies](concepts/team-topologies.md)
 - **Sustaining innovation** — improvements along dimensions current customers value; incumbents win these ([disruption](concepts/disruption-theory.md))
 - **[Survey](concepts/surveys.md)** — quantitative research at scale; powerful when designed well, garbage otherwise
+- **Switching costs** — Power #4 in [Helmer's 7 Powers](concepts/seven-powers.md); cost-to-switch deters competitor wins
 - **Sean Ellis test** — see [PMF](concepts/pmf.md); 40%+ "very disappointed" if product gone = PMF
 - **[Service blueprint](concepts/service-blueprint.md)** — CJM extended with backstage/support/process layers
 - **[Shape Up](concepts/shape-up.md)** — Basecamp's 6-week-cycle product methodology
@@ -225,7 +250,9 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 ## T
 
+- **[Team Topologies](concepts/team-topologies.md)** — Skelton/Pais; modern team-shape framework with four team types + three interaction modes
 - **Think-aloud protocol** — narrating thoughts during a [usability test](concepts/usability-testing.md); the most informative observation technique
+- **[Three Horizons](concepts/three-horizons.md)** — McKinsey portfolio innovation framework: defend / build / explore
 - **Touchpoint** — any interaction between user and org ([CJM](concepts/customer-journey-maps.md) dimension)
 - **[Tree testing](concepts/tree-testing.md)** — IA findability validation; given a task, can users find the right item in a text-only nav
 - **Tipping point** — density threshold past which a [network](concepts/network-effects.md) self-sustains

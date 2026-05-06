@@ -17,6 +17,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Backlog** — list of work items; in mature orgs, an *output* of discovery, not an input
 - **Backstage** — invisible-to-user org operations in a [service blueprint](concepts/service-blueprint.md)
 - **Bayesian A/B testing** — alternative statistical framework; see [multivariate testing](concepts/multivariate-testing.md)
+- **Beachhead market** — the narrow initial segment a team chooses to win first; see [ICP, Segmentation, and Beachhead Market](concepts/icp-segmentation.md)
 - **Bet** — a piece of work framed as "we expect outcome Y, we'll find out at T+N"
 - **[Blue Ocean](concepts/blue-ocean.md)** — Kim/Mauborgne; create uncontested market space via ERRC
 - **Blameless postmortem** — see [postmortem](concepts/postmortem.md); failure analysis without individual blame
@@ -32,6 +33,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[Card sorting](concepts/card-sorting.md)** — IA research method; users group items into categories
 - **CES** — Customer Effort Score; "how easy was it to [task]?" ([surveys](concepts/surveys.md))
 - **Cognitive load** — capacity-bounded mental effort per team; reducing extraneous load is key in [Team Topologies](concepts/team-topologies.md)
+- **Competitive analysis** — structured study of the alternatives a buyer could choose, including direct competitors, substitutes, and the status quo
 - **[Cold-start problem](concepts/cold-start-problem.md)** — Andrew Chen; how to bootstrap a network from zero
 - **Conjoint analysis** — survey-based tradeoff measurement; advanced [pricing](concepts/pricing.md) tool
 - **[Conway's Law](concepts/conways-law.md)** — system architecture mirrors the org's communication structure
@@ -41,6 +43,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Chaotic** — [Cynefin](concepts/cynefin.md) domain: no discernible cause/effect; act → sense → respond
 - **Clear / Obvious** — [Cynefin](concepts/cynefin.md) domain: cause/effect obvious; sense → categorise → respond
 - **[Cohort](concepts/cohort-analysis.md)** — group of users sharing a time-based entry point
+- **Churn** — the rate or count at which users, accounts, or revenue stop being retained over a defined period; diagnosis requires cohort + segment context
 - **Complex** — [Cynefin](concepts/cynefin.md) domain: cause/effect knowable only in retrospect; probe → sense → respond
 - **Complicated** — [Cynefin](concepts/cynefin.md) domain: cause/effect knowable with expertise; sense → analyse → respond
 - **Concierge MVP** — manually delivering a service to validate demand before automating
@@ -62,6 +65,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[Disruption theory](concepts/disruption-theory.md)** — Christensen; why incumbents lose to inferior-looking entrants
 - **Diffusion of Innovations** — Rogers's 1962 tech adoption lifecycle; foundation for [Crossing the Chasm](concepts/crossing-the-chasm.md)
 - **Discovery** — the work of figuring out *what* to build, separate from *how*
+- **Discovery operating loop** — the recurring sequence linking strategy, segmentation, signals, synthesis, opportunity choice, experiments, delivery, measurement, and decisions; see [Discovery Operating Loop](concepts/discovery-operating-loop.md)
 - **[Discovery track](concepts/dual-track-agile.md)** — half of dual-track agile; interviews, prototypes, experiments
 - **Disorder** — [Cynefin](concepts/cynefin.md)'s default state; you don't yet know which domain you're in
 - **Doctrine** — universal strategic rules in [Wardley Mapping](concepts/wardley-mapping.md)
@@ -77,9 +81,10 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Engagement** — depth and frequency of product use ([HEART](concepts/heart-framework.md) dimension)
 - **Engine of growth** — viral, sticky, or paid loop that compounds ([Lean Startup](concepts/lean-startup.md))
 - **ERRC** — Eliminate-Reduce-Raise-Create; the four-action [Blue Ocean](concepts/blue-ocean.md) framework
-- **Evolution** — Wardley's horizontal axis: genesis → custom → product → commodity
 - **Existing alternatives** — how customers solve the problem today ([Lean Canvas](concepts/lean-canvas.md) component)
 - **Experiment** — a test of a specific assumption with a predefined success criterion
+- **Experiment design** — the practice of choosing a method, metric, success criterion, and decision rule for a test; see [Experiment Design](concepts/experiment-design.md)
+- **Evolution** — Wardley's horizontal axis: genesis → custom → product → commodity
 
 ## F
 
@@ -115,6 +120,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 ## I
 
 - **[ICE](concepts/rice-ice.md)** — Impact × Confidence × Ease (lightweight prioritization)
+- **ICP** — Ideal Customer Profile; the best-fit customer type for the product right now; see [ICP, Segmentation, and Beachhead Market](concepts/icp-segmentation.md)
 - **Impact** — long-term consequence; downstream of outcome
 - **Importance × Satisfaction** — see [ODI](concepts/odi.md); the two survey axes for opportunity scoring
 - **[Innovation accounting](concepts/innovation-accounting.md)** — Ries's metric system measuring validated learning per cycle
@@ -192,6 +198,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Platform team** — owns internal-facing product platforms used by stream-aligned teams; see [Team Topologies](concepts/team-topologies.md)
 - **[PMF / Product-Market Fit](concepts/pmf.md)** — Andreessen's "great team in great market"; measurable via [Sean Ellis test](concepts/pmf.md)
 - **[Postmortem](concepts/postmortem.md)** — blameless retrospective on incidents and bets
+- **Positioning** — the deliberate choice of how a product is framed relative to alternatives, category, customer, and differentiated value; see [Competitive Analysis and Positioning](concepts/competitive-analysis-positioning.md)
 - **Power** — see [7 Powers](concepts/seven-powers.md); benefit + barrier producing persistent differential returns
 - **Power analysis** — sample-size calculation for an [A/B test](concepts/ab-testing.md)
 - **[Power user analysis](concepts/power-user-analysis.md)** — Bangaly Kaba; study most-engaged users to find what works
@@ -218,7 +225,10 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[RARRA](concepts/rarra.md)** — Petit/Papp's retention-first reordering of [AARRR](concepts/pirate-metrics.md)
 - **[RAT / Riskiest Assumption Test](concepts/rat.md)** — Higham's refinement of [MVP](concepts/lean-startup.md)
 - **Reach** — how many users are affected ([RICE](concepts/rice-ice.md) component)
+- **Research repository** — centralized system for storing notes, evidence, clips, tags, and synthesized insights across studies
+- **Research synthesis** — the act of turning raw research inputs into patterns, insights, opportunities, and decisions; see [Research Synthesis](concepts/research-synthesis.md)
 - **Retention** — % of users who return over time; usually the most important leading indicator
+- **Retention diagnosis** — the practice of explaining which cohorts or segments stay, which leave, and why; see [Churn and Retention Diagnosis](concepts/churn-retention-diagnosis.md)
 - **[RICE](concepts/rice-ice.md)** — (Reach × Impact × Confidence) ÷ Effort
 - **[Roadmap trap](concepts/roadmap-trap.md)** — communicated direction; corrupts into output-shaped contract under pressure
 - **Rumelt's kernel** — diagnosis + guiding policy + coherent actions ([product strategy](concepts/product-strategy.md))
@@ -227,9 +237,12 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 
 - **Safe-to-fail experiment** — [Cynefin](concepts/cynefin.md) term for cheap experiments in the Complex domain
 - **Sales-led growth** — GTM motion where sales reps acquire and convert; contrast with [PLG](concepts/product-led-growth.md)
+- **Segment** — measurable group of users or customers with shared traits relevant to behavior, needs, or economics; see [ICP, Segmentation, and Beachhead Market](concepts/icp-segmentation.md)
+- **Segmentation** — the act of dividing a market into meaningful groups for targeting, discovery, and GTM
 - **Skim pricing** — start high, lower over time; opposite of penetration ([pricing](concepts/pricing.md))
 - **Sequential testing** — A/B method allowing continuous monitoring; see [multivariate testing](concepts/multivariate-testing.md)
 - **[Seven Powers](concepts/seven-powers.md)** — Helmer; canonical taxonomy of strategic moats / defensibility
+- **Signal** — observable behavior indicating a goal is met ([HEART](concepts/heart-framework.md) framework step)
 - **Stream-aligned team** — default team type owning a value stream; see [Team Topologies](concepts/team-topologies.md)
 - **Sustaining innovation** — improvements along dimensions current customers value; incumbents win these ([disruption](concepts/disruption-theory.md))
 - **[Survey](concepts/surveys.md)** — quantitative research at scale; powerful when designed well, garbage otherwise
@@ -254,6 +267,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **Think-aloud protocol** — narrating thoughts during a [usability test](concepts/usability-testing.md); the most informative observation technique
 - **[Three Horizons](concepts/three-horizons.md)** — McKinsey portfolio innovation framework: defend / build / explore
 - **Touchpoint** — any interaction between user and org ([CJM](concepts/customer-journey-maps.md) dimension)
+- **Tracking plan** — source-of-truth specification for events, properties, identities, and downstream metrics; see [Tracking Plans and Instrumentation](concepts/tracking-plans-instrumentation.md)
 - **[Tree testing](concepts/tree-testing.md)** — IA findability validation; given a task, can users find the right item in a text-only nav
 - **Tipping point** — density threshold past which a [network](concepts/network-effects.md) self-sustains
 - **Trigger** — first phase of the [Hooked](concepts/hooked.md) loop; external (notif) or internal (emotion)
@@ -280,6 +294,7 @@ One-line definitions for terms used across the wiki. Linked entries have full pa
 - **[Vanity metric](concepts/vanity-metrics.md)** — number that always grows but doesn't indicate value
 - **Variable reward** — third phase of the [Hooked](concepts/hooked.md) loop; unpredictable payoff (tribe / hunt / self)
 - **Viability** — one of [Cagan's four risks](concepts/cagan-four-risks.md); does it work for the business?
+- **Voice of Customer (VoC)** — structured system for collecting, normalizing, and routing customer signal from support, sales, churn, surveys, and research; see [Voice of Customer (VoC) Systems](concepts/voc-systems.md)
 
 ## W
 

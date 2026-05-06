@@ -58,9 +58,12 @@ Discovery exists to reduce these *before* delivery commits.
 - [PR/FAQ (Working Backwards)](concepts/pr-faq.md) — Amazon's press-release-first method
 - [PRD vs One-pager](concepts/prd.md) — Cagan's argument for short specs over long PRDs
 - [Pricing](concepts/pricing.md) — value-based, Van Westendorp PSM, freemium, B2B
+- [ICP, Segmentation, and Beachhead Market](concepts/icp-segmentation.md) — who exactly to serve first, and who not to
+- [Competitive Analysis and Positioning](concepts/competitive-analysis-positioning.md) — how to think about alternatives, differentiation, and the comparison frame buyers use
 
 ### Frameworks (how to organize discovery)
 - [Dual Track Agile](concepts/dual-track-agile.md) — discovery and delivery as parallel tracks within one team
+- [Discovery Operating Loop](concepts/discovery-operating-loop.md) — the practical spine connecting strategy, evidence, experiments, delivery, measurement, and decisions
 - [Continuous Discovery](concepts/continuous-discovery.md) — weekly user touchpoints, not quarterly research sprints
 - [Opportunity Solution Tree (OST)](concepts/opportunity-solution-tree.md) — Torres's central artifact
 - [Lean UX](concepts/lean-ux.md) — Gothelf; hypothesis-driven design, outcomes over deliverables
@@ -72,8 +75,19 @@ Discovery exists to reduce these *before* delivery commits.
 - [Shape Up](concepts/shape-up.md) — Basecamp's 6-week-cycle alternative methodology
 - [Now / Next / Later](concepts/now-next-later.md) — outcome-shaped roadmap format
 
+### Practical workflows (how to actually run discovery)
+- [Discovery Operating Loop](concepts/discovery-operating-loop.md) — the end-to-end operating spine for discovery work
+- [ICP, Segmentation, and Beachhead Market](concepts/icp-segmentation.md) — choose who to serve first
+- [Competitive Analysis and Positioning](concepts/competitive-analysis-positioning.md) — define alternatives and comparison frame
+- [Voice of Customer (VoC) Systems](concepts/voc-systems.md) — turn support, sales, churn, and surveys into signal flow
+- [Research Synthesis](concepts/research-synthesis.md) — convert raw evidence into patterns, insights, and opportunities
+- [Experiment Design](concepts/experiment-design.md) — design tests with explicit success, failure, and decision rules
+- [Tracking Plans and Instrumentation](concepts/tracking-plans-instrumentation.md) — make funnels, cohorts, and experiments trustworthy
+- [Churn and Retention Diagnosis](concepts/churn-retention-diagnosis.md) — explain who leaves, when, and why
+
 ### Methods (how to generate insight)
 - [Jobs To Be Done (JTBD)](concepts/jobs-to-be-done.md) — users hire products to do jobs
+- [Research Synthesis](concepts/research-synthesis.md) — how raw notes and observations become patterns, insights, and opportunities
 - [Outcome-Driven Innovation (ODI)](concepts/odi.md) — Ulwick; quantitative cousin to JTBD
 - [User interviews](concepts/user-interviews.md) — past-behavior probes, not opinion polls
 - [The Mom Test](concepts/mom-test.md) — Fitzpatrick; three-rule discipline for honest interviews
@@ -83,6 +97,7 @@ Discovery exists to reduce these *before* delivery commits.
 - [Riskiest Assumption Test (RAT)](concepts/rat.md) — sharper alternative to MVP
 - [Premortem](concepts/premortem.md) — Klein; imagine failure; surface risks before they become real
 - [Postmortem (blameless)](concepts/postmortem.md) — retrospective learning from incidents and bets
+- [Experiment Design](concepts/experiment-design.md) — how to turn assumptions into tests with real decision value
 - [Prototyping](concepts/prototyping.md) — feasibility, user, live-data, Wizard-of-Oz
 - [Story mapping](concepts/story-mapping.md) — user journey as backbone, slices as releases
 - [Customer journey maps](concepts/customer-journey-maps.md) — end-to-end experience across all touchpoints
@@ -90,6 +105,7 @@ Discovery exists to reduce these *before* delivery commits.
 
 ### User research toolbox (specific research methods)
 - [Usability testing](concepts/usability-testing.md) — watch users attempt tasks; the canonical UX method
+- [Voice of Customer (VoC) Systems](concepts/voc-systems.md) — operational customer-signal intake across support, sales, churn, and surveys
 - [Ethnography & Contextual Inquiry](concepts/ethnography.md) — field observation; what users actually do
 - [Diary studies](concepts/diary-studies.md) — longitudinal self-reporting across days/weeks
 - [Five-second test](concepts/five-second-test.md) — quick clarity / value-prop check
@@ -108,11 +124,13 @@ Discovery exists to reduce these *before* delivery commits.
 
 ### Metrics & prioritization
 - [Outcomes vs outputs](concepts/outcomes-vs-outputs.md) — the single most-violated rule
+- [Tracking Plans and Instrumentation](concepts/tracking-plans-instrumentation.md) — the measurement layer that makes funnels, cohorts, and experiments trustworthy
 - [Pirate Metrics (AARRR)](concepts/pirate-metrics.md) — funnel: acquisition → activation → retention → revenue → referral
 - [RARRA (retention-first)](concepts/rarra.md) — modern reordering of AARRR
 - [Funnel analysis](concepts/funnel-analysis.md) — analytical method for finding step-by-step drop-offs
 - [Cohort analysis](concepts/cohort-analysis.md) — the only honest way to measure product health
 - [Aha moment / Activation](concepts/aha-moment.md) — the highest-leverage discovery
+- [Churn and Retention Diagnosis](concepts/churn-retention-diagnosis.md) — how to explain who leaves, when, and why, rather than just reporting churn %
 - [Product-Market Fit (PMF)](concepts/pmf.md) — Sean Ellis test, retention curves, Andreessen
 - [HEART framework](concepts/heart-framework.md) — Google's UX metrics system
 - [RICE / ICE scoring](concepts/rice-ice.md) — coarse prioritization, tiebreaker only
@@ -147,6 +165,19 @@ Discovery exists to reduce these *before* delivery commits.
 
 ---
 
+## Start here if you're building a product team
+
+Read in this order:
+1. [Product strategy](concepts/product-strategy.md)
+2. [Discovery Operating Loop](concepts/discovery-operating-loop.md)
+3. [ICP, Segmentation, and Beachhead Market](concepts/icp-segmentation.md)
+4. [Research Synthesis](concepts/research-synthesis.md)
+5. [Experiment Design](concepts/experiment-design.md)
+6. [Tracking Plans and Instrumentation](concepts/tracking-plans-instrumentation.md)
+7. [Churn and Retention Diagnosis](concepts/churn-retention-diagnosis.md)
+
+---
+
 ## Reading order (if new)
 
 1. [Outcomes vs outputs](concepts/outcomes-vs-outputs.md) — the philosophical prerequisite
@@ -166,6 +197,7 @@ Discovery exists to reduce these *before* delivery commits.
 
 You've read *Inspired*, *Continuous Discovery Habits*, and a few others. Higher-leverage paths:
 
+- **Practical discovery operating spine** → [Discovery Operating Loop](concepts/discovery-operating-loop.md) → [ICP / Segmentation](concepts/icp-segmentation.md) → [Research Synthesis](concepts/research-synthesis.md) → [Experiment Design](concepts/experiment-design.md) → [Tracking Plans & Instrumentation](concepts/tracking-plans-instrumentation.md) → [Churn / Retention Diagnosis](concepts/churn-retention-diagnosis.md)
 - **Strategy layer** → [Product strategy](concepts/product-strategy.md) → [Wardley Mapping](concepts/wardley-mapping.md) → [PR/FAQ](concepts/pr-faq.md)
 - **Quantitative literacy** → [A/B testing](concepts/ab-testing.md) → [Cohort analysis](concepts/cohort-analysis.md) → [Innovation Accounting](concepts/innovation-accounting.md) → [Vanity metrics](concepts/vanity-metrics.md)
 - **PMF & retention** → [PMF](concepts/pmf.md) → [Aha moment](concepts/aha-moment.md) → [Hooked](concepts/hooked.md) → [RARRA](concepts/rarra.md)
